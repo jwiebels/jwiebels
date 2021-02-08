@@ -1,7 +1,7 @@
 # hi, i'm jan 👋
 Passionate about learning, Python, and automation.
 
-> If you like what you see, feel free to [email me](mailto:jwiebels.busines@gmail.com?subject=Hi%20Jan) or message me on [LinkedIn](https://www.linkedin.com/in/janwiebels).
+> If you like what you see, feel free to message me on [LinkedIn](https://www.linkedin.com/in/janwiebels).
 
 <!--
 **jwiebels/jwiebels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
