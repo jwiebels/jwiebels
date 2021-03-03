@@ -1,7 +1,7 @@
 # hi, i'm jan 👋
 Passionate about learning, Python, and automation.
 
-> All of my repositories are private. If we have talked about a certain project and you want to gain access, send me message on [LinkedIn](https://www.linkedin.com/in/janwiebels) with your credentials. 
+> All of my repositories are private. If we have talked about a certain project and you want to gain access, send me a message on [LinkedIn](https://www.linkedin.com/in/janwiebels) with your credentials. 
 
 <!--
 **jwiebels/jwiebels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
